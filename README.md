@@ -1,4 +1,4 @@
-用于处理 不同平台Kontext 报错的lora转化
+用于处理KontextLora不兼容双截棍的lora转化工具
 
 
 转换前请检查 
